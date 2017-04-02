@@ -1,0 +1,6 @@
+# Ignore default output directories
+/bin/
+/obj/
+
+# Ignore compiled sources in any directory
+/**/*.o
